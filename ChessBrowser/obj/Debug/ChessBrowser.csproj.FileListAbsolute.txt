@@ -1,0 +1,13 @@
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/bin/Debug/ChessBrowser.exe.config
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/bin/Debug/ChessBrowser.exe
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/bin/Debug/ChessBrowser.pdb
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/bin/Debug/ChessTools.dll
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/bin/Debug/MySql.Data.dll
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.csprojResolveAssemblyReference.cache
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.exe.config
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.Form1.resources
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.Properties.Resources.resources
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.csproj.GenerateResource.cache
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.csproj.CoreCompileInputs.cache
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.exe
+/Users/junchenzhang/junchenz/cs_6016_Database/ChessBrowser/ChessBrowser/obj/Debug/ChessBrowser.pdb
